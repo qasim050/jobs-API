@@ -3,7 +3,7 @@
 A small, self-contained README for the Jobs API project.
 
 ## Project Overview
-A RESTful API to manage job listings (create, read, update, delete). This repository currently contains Git metadata and project prompts; add application code into the repository root alongside this README.
+A RESTful API to manage job listings (create, read, update, delete
 
 ## Features
 - List jobs
